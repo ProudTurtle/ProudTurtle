@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Aleksandra Wierzbicka
 
 <!--
 **ProudTurtle/ProudTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stack
+### Mainly
+
+[<img src="icons/java.svg" alt="Java" height="32" />](## "Java") &nbsp;
+[<img src="icons/spring.svg" alt="Spring" height="32" />](## "Spring Boot") &nbsp;
+[<img src="icons/hibernate.svg" alt="hibernate" height="32" />](## "Hibernate") &nbsp;
+[<img src="icons/mysql.svg" alt="MySQL" height="32" />](## "MySQL") &nbsp;
+
+
+... but also familiar with
+
+[<img src="icons/postgresql.svg" alt="Postgres" height="32" />](## "PostreSQL") &nbsp;
+[<img src="icons/angular.svg" alt="Angular" height="32" />](## "Angular") &nbsp;
+
+
+----
